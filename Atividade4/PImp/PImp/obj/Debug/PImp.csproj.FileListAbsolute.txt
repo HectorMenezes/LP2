@@ -1,0 +1,9 @@
+C:\AreaDeTrab\Fatec\LPII\Atividade4\PImp\PImp\bin\Debug\PImp.exe.config
+C:\AreaDeTrab\Fatec\LPII\Atividade4\PImp\PImp\bin\Debug\PImp.exe
+C:\AreaDeTrab\Fatec\LPII\Atividade4\PImp\PImp\bin\Debug\PImp.pdb
+C:\AreaDeTrab\Fatec\LPII\Atividade4\PImp\PImp\obj\Debug\PImp.csprojAssemblyReference.cache
+C:\AreaDeTrab\Fatec\LPII\Atividade4\PImp\PImp\obj\Debug\PImp.Form1.resources
+C:\AreaDeTrab\Fatec\LPII\Atividade4\PImp\PImp\obj\Debug\PImp.Properties.Resources.resources
+C:\AreaDeTrab\Fatec\LPII\Atividade4\PImp\PImp\obj\Debug\PImp.csproj.GenerateResource.cache
+C:\AreaDeTrab\Fatec\LPII\Atividade4\PImp\PImp\obj\Debug\PImp.exe
+C:\AreaDeTrab\Fatec\LPII\Atividade4\PImp\PImp\obj\Debug\PImp.pdb
