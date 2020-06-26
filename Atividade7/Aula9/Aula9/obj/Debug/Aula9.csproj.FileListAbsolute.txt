@@ -1,0 +1,11 @@
+C:\AreaDeTrab\Fatec\LPII\Atividade7\Aula9\Aula9\bin\Debug\Aula9.exe.config
+C:\AreaDeTrab\Fatec\LPII\Atividade7\Aula9\Aula9\bin\Debug\Aula9.exe
+C:\AreaDeTrab\Fatec\LPII\Atividade7\Aula9\Aula9\bin\Debug\Aula9.pdb
+C:\AreaDeTrab\Fatec\LPII\Atividade7\Aula9\Aula9\obj\Debug\Aula9.csprojAssemblyReference.cache
+C:\AreaDeTrab\Fatec\LPII\Atividade7\Aula9\Aula9\obj\Debug\Aula9.Form1.resources
+C:\AreaDeTrab\Fatec\LPII\Atividade7\Aula9\Aula9\obj\Debug\Aula9.Properties.Resources.resources
+C:\AreaDeTrab\Fatec\LPII\Atividade7\Aula9\Aula9\obj\Debug\Aula9.csproj.GenerateResource.cache
+C:\AreaDeTrab\Fatec\LPII\Atividade7\Aula9\Aula9\obj\Debug\Aula9.exe
+C:\AreaDeTrab\Fatec\LPII\Atividade7\Aula9\Aula9\obj\Debug\Aula9.pdb
+C:\AreaDeTrab\Fatec\LPII\Atividade7\Aula9\Aula9\obj\Debug\Aula9.csproj.CoreCompileInputs.cache
+C:\AreaDeTrab\Fatec\LPII\Atividade7\Aula9\Aula9\obj\Debug\Aula9.NomesFrm.resources
